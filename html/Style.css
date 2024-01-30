@@ -1,0 +1,4 @@
+.name{color: darkred; border: 2px solid red; margin-bottom: 10pt; display: inline-block;}
+.date{color: green; border: 2px solid red; margin-bottom: 10pt; display: inline-block;}
+.email{color: purple; border: 2px solid red; display: inline-block;}
+.profilepicture{ width:128px; height: auto}
